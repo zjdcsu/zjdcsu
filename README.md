@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @zjdcsu
+- 🎓 a PhD student @CSU
 - 👀 I’m interested in 3D reconstruction
 - 🌱 I’m currently learning point cloud
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email or github
+- 📫 How to reach me |email|github|blog|X|LinkedIn|facebook|weibo|
 - 🔗 welcome to my website 
 
 ## Star History
