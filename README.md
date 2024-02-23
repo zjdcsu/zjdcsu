@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zjdcsu
 - 🎓 a PhD student @CSU
-- 👀 I’m interested in 3D reconstruction
-- 🌱 I’m currently learning point cloud
+- 👀 I’m interested in Knowledge Graph
+- 🌱 I’m currently learning Real Scene 3D
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me | email | github | blog | X | LinkedIn | facebook | weibo |
 - 🔗 welcome to my website 
